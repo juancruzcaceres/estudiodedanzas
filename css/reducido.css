@@ -227,7 +227,7 @@ iframe {
   border: 0;
 }
 .display-1 {
-  font-size: calc(1.625rem + 4.5vw);
+  font-size: calc(1.3rem + 4.5vw);
   font-weight: 700;
   line-height: 1.2;
 }

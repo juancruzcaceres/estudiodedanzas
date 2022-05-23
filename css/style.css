@@ -163,6 +163,12 @@ html {
   object-fit: cover;
 }
 
+.text1 {
+  font-size: calc(1.4rem + 0.3vw);
+  font-weight: normal !important;
+  margin: 0 !important;
+}
+
 carousel-estudio-item img {
   height: 300px;
   object-fit: cover;
@@ -198,7 +204,7 @@ carousel-estudio-item img {
 
 .page-header {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../img/carousel2.png) center center no-repeat;
+    url(../img/carousel1.png) center center no-repeat;
   background-size: cover;
 }
 
